@@ -103,6 +103,7 @@ Este trecho demonstra como o jogo processa as escolhas e atualiza o resultado em
 
 ## 📁Estrutura do Projeto
 
+```
 Yu-Gi-Oh-JoKenPo/
 ├── index.html
 ├── src/
@@ -119,6 +120,7 @@ Yu-Gi-Oh-JoKenPo/
 │       ├── containers_and_frames.css
 │       ├── main.css
 │       ├── reset.css
+```
 
 ## 🔧Configuração
 
