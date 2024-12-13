@@ -97,8 +97,10 @@
 .card-versus__container {
     flex-direction: column;
     padding-top: 0.1rem;
+    align-content: center;
+    justify-content: center;
     height: 300px;
-    margin-top: 5rem;
+    /* margin-top: 4rem; */
 }
 
 .versus-top, 

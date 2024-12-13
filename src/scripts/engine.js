@@ -104,7 +104,7 @@ async function setCardsField(cardId) {
 }
 
 async function drawButton(text) {
-    state.actions.button.innerText = text;
+    state.actions.button.innerText = text.toUpperCase();
     state.actions.button.style.display = "block";
 }
 
@@ -168,6 +168,10 @@ async function resetDuel() {
 async function playAudio(status) {
     const audio = new Audio(`./src/assets/audios/${status}.wav`);
     audio.play();
+
+    try {
+        audio.play();
+    } catch {}
 }
 
 
