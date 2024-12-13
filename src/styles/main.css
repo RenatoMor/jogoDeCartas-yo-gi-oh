@@ -1,6 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap'); 
 
 
+body {
+    cursor: url(../assets/cursor/yugicursor.png), default;
+}
+
+button,
+a,
+img:hover,
+button:hover,
+a:hover {
+    cursor: url(../assets/cursor/yamiyugicursorGLOW.png), auto;
+}
+
+
 /*/ Vídeo de fundo */
 
 .bg-video {
