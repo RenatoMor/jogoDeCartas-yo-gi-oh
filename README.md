@@ -150,11 +150,11 @@ Substitua os arquivos em ./src/assets/audios/.
 
 Este projeto utiliza fontes e estética retro-gaming para criar uma experiência nostálgica e imersiva, destacando a atmosfera única de Yu-Gi-Oh.
 
-👨‍💻 Autor
+## 👨‍💻Autor
 
 Renato Moreira
 
 
-🔒 Licença
+## 🔒Licença
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
