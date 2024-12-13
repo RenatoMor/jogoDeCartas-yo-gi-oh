@@ -120,17 +120,19 @@ Yu-Gi-Oh-JoKenPo/
 │       ├── main.css
 │       ├── reset.css
 
-🔧 Configuração
+## 🔧Configuração
 
-Clone este repositório:
+#### Clone este repositório:
 
-git clone https://github.com/seu-usuario/Yu-Gi-Oh-JoKenPo.git
+**git clone:** 
+
+https://github.com/RenatoMor/jogoDeCartas-yo-gi-oh.git
 
 Certifique-se de que os arquivos estão em um diretório acessível.
 
 Abra index.html no seu navegador.
 
-⚡ Personalizações
+## ⚡Personalizações
 
 Adicionar novas cartas:
 
@@ -142,7 +144,7 @@ Alterar áudio:
 
 Substitua os arquivos em ./src/assets/audios/.
 
-🎨 Inspiração Visual
+## 🎨Inspiração Visual
 
 Este projeto utiliza fontes e estética retro-gaming para criar uma experiência nostálgica e imersiva, destacando a atmosfera única de Yu-Gi-Oh.
 
