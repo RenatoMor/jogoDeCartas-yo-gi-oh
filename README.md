@@ -57,7 +57,7 @@ function determineWinner(player, computer) {
 
 Este trecho demonstra como o jogo processa as escolhas e atualiza o resultado em tempo real na interface gráfica.
 
-### 🎮 Funcionalidades
+## 🎮 Funcionalidades
 
 **Jogabilidade de Jo-Ken-Po:**
 
